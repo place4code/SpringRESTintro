@@ -14,6 +14,7 @@
 
 <h1 class="display-3">Spring REST demo</h1>
 <a class="btn btn-outline-primary" href="${pageContext.request.contextPath}/test/hello" role="button">For testing</a>
+<a class="btn btn-outline-primary" href="${pageContext.request.contextPath}/api/students" role="button">Get Students</a>
 
 
 
